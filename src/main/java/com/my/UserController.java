@@ -12,7 +12,7 @@ public class UserController {
     @PostMapping("/user")
     public User postUser(@Valid @RequestBody User user, BindingResult bindingResult) {
 
-//如果验证通不过的处理11
+//如果验证通不过的处理11111
         return null;
 
     }
